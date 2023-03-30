@@ -17,7 +17,7 @@ git clone https://github.com/paolomutia1/flask.git
 
 2. Change directory into the project folder:
 
-cd top-tech-headlines
+cd flask
 
 3. Install the required dependencies:
 
